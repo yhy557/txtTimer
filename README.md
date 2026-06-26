@@ -7,7 +7,8 @@ Are you tired of the dozens of .txt files you’ve created on your desktop? Then
 ### `del(“time in minutes”)`
 This automatically deletes the text files you name once the specified number of minutes has elapsed.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/331ff67a-fcf2-4827-a820-a18a11ac9758" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/24a3e33f-efdb-499d-8c5a-084aa91092d0" />
+
 
 
 **Example:**
